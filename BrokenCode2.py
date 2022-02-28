@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 
-echo Hello World!
+print('Hello World!') #Changing echo to print and then adding perensthies 

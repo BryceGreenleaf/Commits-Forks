@@ -1,4 +1,3 @@
 #!/usr/bin/bash
 
-printf ("Hello World!");
-return 0;
+echo "Hello World!"; #Changing from print to echo and removing the parenthesies.
